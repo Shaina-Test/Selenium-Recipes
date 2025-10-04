@@ -5,3 +5,4 @@ Feature: IHG Home Page
     When i click on signin button
     Then login page opens suucessfully
 
+
